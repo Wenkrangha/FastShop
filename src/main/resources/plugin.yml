@@ -1,0 +1,4 @@
+name: FastShop
+version: '${project.version}'
+main: com.wenkrangha.fastshop.FastShop
+api-version: 1.19
